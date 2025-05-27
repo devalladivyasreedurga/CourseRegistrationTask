@@ -8,9 +8,9 @@ This is a full-stack web application developed using the following technologies:
 
 To run Frontend
 
-cd frontend
-npm i
-npm start
+* cd frontend
+* npm i
+* npm start
 
 
 Backend
