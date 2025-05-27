@@ -15,9 +15,9 @@ npm start
 
 Backend
 
-cd ..
-cd backend
-npm i
+* cd ..
+* cd backend
+* npm i
 **If the db doesn't exist as a file then run the below command
 sqlite3 courseReg.db < schema.sql
 
